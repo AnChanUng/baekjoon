@@ -1,9 +1,9 @@
-## 2024/09/06
+## 2024/09/08
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [18115](https://www.acmicpc.net/problem/18115) | [카드 놓기](https://www.acmicpc.net/problem/18115) |
-| [9084](https://www.acmicpc.net/problem/9084) | [동전](https://www.acmicpc.net/problem/9084) |
-| [16206](https://www.acmicpc.net/problem/16206) | [롤케이크](https://www.acmicpc.net/problem/16206) |
-| [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
-| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
+| [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
+| [2493](https://www.acmicpc.net/problem/2493) | [탑](https://www.acmicpc.net/problem/2493) |
+| [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
+| [22868](https://www.acmicpc.net/problem/22868) | [산책 (small)](https://www.acmicpc.net/problem/22868) |
+| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
